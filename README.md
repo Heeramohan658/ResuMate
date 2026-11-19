@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ResuMate 25 Templates — No MySQL Edition
 
 **Developer:** Heera Mohan Sardar
@@ -61,3 +62,7 @@ The ATS score is a transparent heuristic, not a certified score and not a guaran
 - `POST /api/ats/analyze` with `{ "resume": { ... }, "jobDescription": "..." }`
 - `POST /api/ai/suggestions` with the same request shape
 - `POST /api/resumes/pdf` with a resume JSON body
+=======
+# ResuMate
+Java Full-Stack Resume Builder &amp; AI ATS Checker
+>>>>>>> e08d5ccea7ca7b455fb42a410f5a4b29c914b989
