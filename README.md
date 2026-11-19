@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# ResuMate 25 Templates — No MySQL Edition
+# ResuMate 25 Templates 
 
 **Developer:** Heera Mohan Sardar
 
